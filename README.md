@@ -37,3 +37,5 @@ To run Vite in your Laravel Sail docker container follow the steps below:
 @vite(['resources/css/app.css', 'resources/js/app.js'])
 ```
 * `./vendor/bin/sail npm run dev`
+
+<h3 style = " color:red">MUST RESTART VITE AND RELOAD BROWSER IF A PHP FILE IS EDITED TO SEE CHANGES</h3>

@@ -10,5 +10,7 @@
     <div class=" bg-red-500">
         Hello world
     </div>
+
+    <div class=" bg-amber-500">Another hello world</div>
 </body>
 </html>
